@@ -1,0 +1,1 @@
+This project is an experiment to create binary module for erlang which can decrease need to use of recursive functions for binary operations. The ideal solution would provide the same interface as list-type has in Erlang.
